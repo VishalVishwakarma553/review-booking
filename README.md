@@ -1,4 +1,4 @@
-# Review Book 📚
+# Review Book 
 
 Review Book is a full-stack web application that allows users to discover stores and submit ratings ranging from 1 to 5. It features a robust role-based access control system, providing tailored experiences for System Administrators, Store Owners, and Normal Users.
 
@@ -6,17 +6,17 @@ The platform is designed with a warm, creamy aesthetic, smooth Framer Motion ani
 
 ## Features by Role
 
-### 🛡️ System Administrator
+###  System Administrator
 - **Dashboard:** Overview of total users, stores, and submitted ratings.
 - **Manage Users:** Add new users, view the user list with filtering and sorting, and see user details.
 - **Manage Stores:** Add new stores and optionally assign a store owner. View the store list with filtering and sorting.
 
-### 🏪 Store Owner
+###  Store Owner
 - **Store Dashboard:** View store details, average rating, total reviews, and a categorized rating status (e.g., Excellent, Good, Needs Work).
 - **Customer Reviews:** See a detailed list of all ratings submitted by users for their store.
 - **Account:** Change password.
 
-### 👤 Normal User
+###  Normal User
 - **Discover:** Browse a grid of registered stores, searchable by name and address.
 - **Rate:** Submit, view, and modify star ratings (1-5) for any store.
 - **Account:** Register a new account and change password.
@@ -51,7 +51,7 @@ Follow these steps to get the project running locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/VishalVishwakarma553/review-booking.git
 cd review-book
 ```
 
